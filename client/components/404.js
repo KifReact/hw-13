@@ -21,7 +21,7 @@ const NotFound = () => {
           }}
         >
           {' '}
-          Back to Dashboard
+          Back to  Dashboard
         </button>
       </div>
     </div>
